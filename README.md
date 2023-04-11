@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 12
+## Problems Solved :: 13
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -15,6 +15,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Bit Strings](https://cses.fi/problemset/task/1617/)
 1. [Trailing Zeros](https://cses.fi/problemset/task/1618/)
 1. [Coin Piles](https://cses.fi/problemset/task/1754/)
+1. [Palindrome Reorder](https://cses.fi/problemset/task/1755/)
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/)
