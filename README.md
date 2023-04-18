@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 14
+## Problems Solved :: 15
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -20,4 +20,5 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/)
+1. [Flight Routes Check](https://cses.fi/problemset/task/1682/)
 
