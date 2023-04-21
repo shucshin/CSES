@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 17
+## Problems Solved :: 18
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -24,4 +24,5 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Range Queries
 1. [Static Range Sum Queries](https://cses.fi/problemset/task/1646/)
+1. [Static Range Minimum Queries](https://cses.fi/problemset/task/1647/)
 1. [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648/)
