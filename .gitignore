@@ -1,6 +1,7 @@
 .DS_Store
 .vscode
 *.txt
+tem.cpp
 
 # Compiled Object files
 *.slo
