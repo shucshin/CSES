@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 26
+## Problems Solved :: 27
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -36,3 +36,4 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/)
 1. [Range Xor Queries](https://cses.fi/problemset/task/1650/)
 1. [Range Update Queries](https://cses.fi/problemset/task/1651/)
+1. [Range Updates and Sums](https://cses.fi/problemset/task/1735/)
