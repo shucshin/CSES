@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 31
+## Problems Solved :: 32
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -41,5 +41,6 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Range Updates and Sums](https://cses.fi/problemset/task/1735/)
 
 ### Tree Algorithms
+1. [Subordinates](https://cses.fi/problemset/task/1674/)
 1. [Company Queries I](https://cses.fi/problemset/task/1687/)
 1. [Company Queries II](https://cses.fi/problemset/task/1688/)
