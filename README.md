@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 38
+## Problems Solved :: 39
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -18,6 +18,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Palindrome Reorder](https://cses.fi/problemset/task/1755/)
 1. [Gray Code](https://cses.fi/problemset/task/2205/)
 1. [Tower of Hanoi](https://cses.fi/problemset/task/2165/)
+1. [Creating Strings](https://cses.fi/problemset/task/1622/)
 
 ### Sorting and Searching
 1. [Distinct Numbers](https://cses.fi/problemset/task/1621/)
