@@ -2,6 +2,7 @@
 .vscode
 *.txt
 tem.cpp
+A
 
 # Compiled Object files
 *.slo
