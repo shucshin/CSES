@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 49
+## Problems Solved :: 51
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -41,10 +41,12 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Building Roads](https://cses.fi/problemset/task/1666/)
 1. [Message Route](https://cses.fi/problemset/task/1667)
 1. [Building Teams](https://cses.fi/problemset/task/1668/)
+1. [Round Trip](https://cses.fi/problemset/task/1669)
 1. [Flight Routes Check](https://cses.fi/problemset/task/1682/)
 1. [Shortest Routes I](https://cses.fi/problemset/task/1671)
 1. [Shortest Routes II](https://cses.fi/problemset/task/1672/)
 1. [Cycle Finding](https://cses.fi/problemset/task/1197/)
+1. [Round Trip II](https://cses.fi/problemset/task/1678/)
 
 ### Range Queries
 1. [Static Range Sum Queries](https://cses.fi/problemset/task/1646/)
