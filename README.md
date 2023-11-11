@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 51
+## Problems Solved :: 52
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/)
@@ -64,6 +64,9 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Company Queries I](https://cses.fi/problemset/task/1687/)
 1. [Company Queries II](https://cses.fi/problemset/task/1688/)
 1. [Distance Queries](https://cses.fi/problemset/task/1135/)
+
+### Mathematics
+1. [Exponentiation](https://cses.fi/problemset/task/1095/)
 
 ### Geometry
 1. [Convex Hull](https://cses.fi/problemset/task/2195/)
