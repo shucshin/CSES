@@ -18,7 +18,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Palindrome Reorder](https://cses.fi/problemset/task/1755/) [ [Code](https://github.com/shucshin/CSES/blob/main/PalindromeReorder.cpp) ]
 1. [Gray Code](https://cses.fi/problemset/task/2205/) [ [Code](https://github.com/shucshin/CSES/blob/main/GrayCode.cpp) ]
 1. [Tower of Hanoi](https://cses.fi/problemset/task/2165/) [ [Code](https://github.com/shucshin/CSES/blob/main/TowerOfHanoi.cpp) ]
-1. [Creating Strings](https://cses.fi/problemset/task/1622/) [ [Code]https://github.com/shucshin/CSES/blob/main/CreatingStrings.cpp) ]
+1. [Creating Strings](https://cses.fi/problemset/task/1622/) [ [Code](https://github.com/shucshin/CSES/blob/main/CreatingStrings.cpp) ]
 1. [Apple Division](https://cses.fi/problemset/task/1623/) [ [Code](https://github.com/shucshin/CSES/blob/main/AppleDivision.cpp) ]
 
 ### Sorting and Searching
