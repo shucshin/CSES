@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 53
+## Problems Solved :: 57
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -42,12 +42,13 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Message Route](https://cses.fi/problemset/task/1667) [ [Code](https://github.com/shucshin/CSES/blob/main/MessageRoute.cpp) ]
 1. [Building Teams](https://cses.fi/problemset/task/1668/) [ [Code](https://github.com/shucshin/CSES/blob/main/BuildingTeams.cpp) ]
 1. [Round Trip](https://cses.fi/problemset/task/1669) [ [Code](https://github.com/shucshin/CSES/blob/main/RoundTrip.cpp) ]
-1. [Road Construction](https://cses.fi/problemset/task/1676/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoadConstruction.cpp) ]
-1. [Flight Routes Check](https://cses.fi/problemset/task/1682/) [ [Code](https://github.com/shucshin/CSES/blob/main/FlightRoutesCheck.cpp) ]
 1. [Shortest Routes I](https://cses.fi/problemset/task/1671) [ [Code](https://github.com/shucshin/CSES/blob/main/ShortestRoutesI.cpp) ]
 1. [Shortest Routes II](https://cses.fi/problemset/task/1672/) [ [Code](https://github.com/shucshin/CSES/blob/main/ShortestRoutesII.cpp) ]
 1. [Cycle Finding](https://cses.fi/problemset/task/1197/) [ [Code](https://github.com/shucshin/CSES/blob/main/CycleFinding.cpp) ]
 1. [Round Trip II](https://cses.fi/problemset/task/1678/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoundTripII.cpp) ]
+1. [Road Construction](https://cses.fi/problemset/task/1676/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoadConstruction.cpp) ]
+1. [Flight Routes Check](https://cses.fi/problemset/task/1682/) [ [Code](https://github.com/shucshin/CSES/blob/main/FlightRoutesCheck.cpp) ]
+
 
 ### Range Queries
 1. [Static Range Sum Queries](https://cses.fi/problemset/task/1646/) [ [Code](https://github.com/shucshin/CSES/blob/main/StaticRangeSumQueries.cpp) ]
@@ -58,6 +59,10 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Range Update Queries](https://cses.fi/problemset/task/1651/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeUpdateQueries.cpp) ]
 1. [Forest Queries](https://cses.fi/problemset/task/1652/) [ [Code](https://github.com/shucshin/CSES/blob/main/ForestQueries.cpp) ]
 1. [Hotel Queries](https://cses.fi/problemset/task/1143/) [ [Code](https://github.com/shucshin/CSES/blob/main/HotelQueries.cpp) ]
+1. [List Removals](https://cses.fi/problemset/task/1749) [ [Code](https://github.com/shucshin/CSES/blob/main/ListRemovals.cpp) ]
+1. [Prefix Sum Queries](https://cses.fi/problemset/task/2166) [ [Code](https://github.com/shucshin/CSES/blob/main/PrefixSumQueries.cpp) ]
+1. [Subarray Sum Queries](https://cses.fi/problemset/task/1190) [ [Code](https://github.com/shucshin/CSES/blob/main/SubarraySumQueries.cpp) ]
+1. [Forest Queries II](https://cses.fi/problemset/task/1739) [ [Code](https://github.com/shucshin/CSES/blob/main/ForestQueriesII.cpp) ]
 1. [Range Updates and Sums](https://cses.fi/problemset/task/1735/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeUpdatesSums.cpp) ]
 
 ### Tree Algorithms
