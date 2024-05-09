@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 57
+## Problems Solved :: 58
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -34,6 +34,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Coin Combinations II](https://cses.fi/problemset/task/1636/) [ [Code](https://github.com/shucshin/CSES/blob/main/CoinCombinationsII.cpp) ]
 1. [Removing Digits](https://cses.fi/problemset/task/1637/) [ [Code](https://github.com/shucshin/CSES/blob/main/RemovingDigits.cpp) ]
 1. [Grid Paths](https://cses.fi/problemset/task/1638/) [ [Code](https://github.com/shucshin/CSES/blob/main/GridPaths.cpp) ]
+1. [Book Shop](https://cses.fi/problemset/task/1158/) [ [Code](https://github.com/shucshin/CSES/blob/main/BookShop.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/IncreasingSubsequence.cpp) ]
 
 ### Graph Algorithms
