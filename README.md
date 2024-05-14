@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 58
+## Problems Solved :: 65
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -35,6 +35,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Removing Digits](https://cses.fi/problemset/task/1637/) [ [Code](https://github.com/shucshin/CSES/blob/main/RemovingDigits.cpp) ]
 1. [Grid Paths](https://cses.fi/problemset/task/1638/) [ [Code](https://github.com/shucshin/CSES/blob/main/GridPaths.cpp) ]
 1. [Book Shop](https://cses.fi/problemset/task/1158/) [ [Code](https://github.com/shucshin/CSES/blob/main/BookShop.cpp) ]
+1. [Two Sets II](https://cses.fi/problemset/task/1093/) [ [Code](https://github.com/shucshin/CSES/blob/main/TwoSetsII.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/IncreasingSubsequence.cpp) ]
 
 ### Graph Algorithms
@@ -74,6 +75,12 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Mathematics
 1. [Exponentiation](https://cses.fi/problemset/task/1095/) [ [Code](https://github.com/shucshin/CSES/blob/main/Exponentiation.cpp) ]
+1. [Counting Divisors](https://cses.fi/problemset/task/1713/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingDivisors.cpp) ]
+1. [Binomial Coefficients](https://cses.fi/problemset/task/1079/) [ [Code](https://github.com/shucshin/CSES/blob/main/BinomialCoefficients.cpp) ]
+1. [Fibonacci Numbers](https://cses.fi/problemset/task/1722) [ [Code](https://github.com/shucshin/CSES/blob/main/FibonacciNumbers.cpp) ]
 
 ### Geometry
+1. [Point Location Test](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/PointLocationTest.cpp) ]
+1. [Line Segment Intersection](https://cses.fi/problemset/task/2190/) [ [Code](https://github.com/shucshin/CSES/blob/main/LineSegmentIntersection.cpp) ]
+1. [Polygon Area](https://cses.fi/problemset/task/2191/) [ [Code](https://github.com/shucshin/CSES/blob/main/PolygonArea.cpp) ]
 1. [Convex Hull](https://cses.fi/problemset/task/2195/) [ [Code](https://github.com/shucshin/CSES/blob/main/ConvexHull.cpp) ]
