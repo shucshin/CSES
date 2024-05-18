@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 67
+## Problems Solved :: 68
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -36,6 +36,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Removing Digits](https://cses.fi/problemset/task/1637/) [ [Code](https://github.com/shucshin/CSES/blob/main/RemovingDigits.cpp) ]
 1. [Grid Paths](https://cses.fi/problemset/task/1638/) [ [Code](https://github.com/shucshin/CSES/blob/main/GridPaths.cpp) ]
 1. [Book Shop](https://cses.fi/problemset/task/1158/) [ [Code](https://github.com/shucshin/CSES/blob/main/BookShop.cpp) ]
+1. [Counting Towers](https://cses.fi/problemset/task/2413/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingTowers.cpp) ]
 1. [Two Sets II](https://cses.fi/problemset/task/1093/) [ [Code](https://github.com/shucshin/CSES/blob/main/TwoSetsII.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/IncreasingSubsequence.cpp) ]
 
