@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 65
+## Problems Solved :: 67
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -30,6 +30,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Dynamic Programming
 1. [Dice Combinations](https://cses.fi/problemset/task/1633/) [ [Code](https://github.com/shucshin/CSES/blob/main/DiceCombinations.cpp) ]
+1. [Minimizing Coins](https://cses.fi/problemset/task/1634/) [ [Code](https://github.com/shucshin/CSES/blob/main/MinimizingCoins.cpp) ]
 1. [Coin Combinations I](https://cses.fi/problemset/task/1635/) [ [Code](https://github.com/shucshin/CSES/blob/main/CoinCombinationsI.cpp) ]
 1. [Coin Combinations II](https://cses.fi/problemset/task/1636/) [ [Code](https://github.com/shucshin/CSES/blob/main/CoinCombinationsII.cpp) ]
 1. [Removing Digits](https://cses.fi/problemset/task/1637/) [ [Code](https://github.com/shucshin/CSES/blob/main/RemovingDigits.cpp) ]
@@ -78,6 +79,9 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Counting Divisors](https://cses.fi/problemset/task/1713/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingDivisors.cpp) ]
 1. [Binomial Coefficients](https://cses.fi/problemset/task/1079/) [ [Code](https://github.com/shucshin/CSES/blob/main/BinomialCoefficients.cpp) ]
 1. [Fibonacci Numbers](https://cses.fi/problemset/task/1722) [ [Code](https://github.com/shucshin/CSES/blob/main/FibonacciNumbers.cpp) ]
+
+### String Algorithms
+1. [String Matching](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/StringMatching.cpp) ]
 
 ### Geometry
 1. [Point Location Test](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/PointLocationTest.cpp) ]
