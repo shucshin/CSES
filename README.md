@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 69
+## Problems Solved :: 71
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -40,6 +40,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Edit Distance](https://cses.fi/problemset/task/1639/) [ [Code](https://github.com/shucshin/CSES/blob/main/EditDistance.cpp) ]
 1. [Two Sets II](https://cses.fi/problemset/task/1093/) [ [Code](https://github.com/shucshin/CSES/blob/main/TwoSetsII.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/IncreasingSubsequence.cpp) ]
+1. [Elevator Rides](https://cses.fi/problemset/task/1653/) [ [Code](https://github.com/shucshin/CSES/blob/main/ElevatorRides.cpp) ]
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingRooms.cpp) ]
@@ -53,6 +54,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Round Trip II](https://cses.fi/problemset/task/1678/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoundTripII.cpp) ]
 1. [Road Construction](https://cses.fi/problemset/task/1676/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoadConstruction.cpp) ]
 1. [Flight Routes Check](https://cses.fi/problemset/task/1682/) [ [Code](https://github.com/shucshin/CSES/blob/main/FlightRoutesCheck.cpp) ]
+1. [Hamiltonian Flights](https://cses.fi/problemset/task/1690/) [ [Code](https://github.com/shucshin/CSES/blob/main/HamiltonianFlights.cpp) ]
 
 
 ### Range Queries
