@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 71
+## Problems Solved :: 72
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -41,6 +41,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Two Sets II](https://cses.fi/problemset/task/1093/) [ [Code](https://github.com/shucshin/CSES/blob/main/TwoSetsII.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/IncreasingSubsequence.cpp) ]
 1. [Elevator Rides](https://cses.fi/problemset/task/1653/) [ [Code](https://github.com/shucshin/CSES/blob/main/ElevatorRides.cpp) ]
+1. [Counting Numbers](https://cses.fi/problemset/task/2220/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingNumbers.cpp) ]
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingRooms.cpp) ]
