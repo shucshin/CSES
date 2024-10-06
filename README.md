@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 72
+## Problems Solved :: 81
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -27,6 +27,14 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Ferris Wheel](https://cses.fi/problemset/task/1090/) [ [Code](https://github.com/shucshin/CSES/blob/main/FerrisWheel.cpp) ]
 1. [Concert Tickets](https://cses.fi/problemset/task/1091/) [ [Code](https://github.com/shucshin/CSES/blob/main/ConcertTickets.cpp) ]
 1. [Restaurant Customers](https://cses.fi/problemset/task/1619/) [ [Code](https://github.com/shucshin/CSES/blob/main/RestaurantCustomers.cpp) ]
+1. [Movie Festival](https://cses.fi/problemset/task/1629/) [ [Code](https://github.com/shucshin/CSES/blob/main/MovieFestival.cpp) ]
+1. [Sum of Two Values](https://cses.fi/problemset/task/1640/) [ [Code](https://github.com/shucshin/CSES/blob/main/SumOfTwoValues.cpp) ]
+1. [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) [ [Code](https://github.com/shucshin/CSES/blob/main/MaximumSubarraySum.cpp) ]
+1. [Stick Lengths](https://cses.fi/problemset/task/1074/) [ [Code](https://github.com/shucshin/CSES/blob/main/StickLengths.cpp) ]
+1. [Missing Coin Sum](https://cses.fi/problemset/task/2183/) [ [Code](https://github.com/shucshin/CSES/blob/main/MissingCoinSum.cpp) ]
+1. [Sum of Three Values](https://cses.fi/problemset/task/1641/) [ [Code](https://github.com/shucshin/CSES/blob/main/SumOfThreeValues.cpp) ]
+1. [Subarray Sums I](https://cses.fi/problemset/task/1660/) [ [Code](https://github.com/shucshin/CSES/blob/main/SubarraySumsI.cpp) ]
+
 
 ### Dynamic Programming
 1. [Dice Combinations](https://cses.fi/problemset/task/1633/) [ [Code](https://github.com/shucshin/CSES/blob/main/DiceCombinations.cpp) ]
@@ -81,6 +89,7 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Mathematics
 1. [Exponentiation](https://cses.fi/problemset/task/1095/) [ [Code](https://github.com/shucshin/CSES/blob/main/Exponentiation.cpp) ]
+1. [Exponentiation II](https://cses.fi/problemset/task/1712/) [ [Code](https://github.com/shucshin/CSES/blob/main/ExponentiationII.cpp) ]
 1. [Counting Divisors](https://cses.fi/problemset/task/1713/) [ [Code](https://github.com/shucshin/CSES/blob/main/CountingDivisors.cpp) ]
 1. [Binomial Coefficients](https://cses.fi/problemset/task/1079/) [ [Code](https://github.com/shucshin/CSES/blob/main/BinomialCoefficients.cpp) ]
 1. [Fibonacci Numbers](https://cses.fi/problemset/task/1722) [ [Code](https://github.com/shucshin/CSES/blob/main/FibonacciNumbers.cpp) ]
