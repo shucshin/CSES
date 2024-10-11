@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 81
+## Problems Solved :: 83
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -61,6 +61,8 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Shortest Routes II](https://cses.fi/problemset/task/1672/) [ [Code](https://github.com/shucshin/CSES/blob/main/ShortestRoutesII.cpp) ]
 1. [Cycle Finding](https://cses.fi/problemset/task/1197/) [ [Code](https://github.com/shucshin/CSES/blob/main/CycleFinding.cpp) ]
 1. [Round Trip II](https://cses.fi/problemset/task/1678/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoundTripII.cpp) ]
+1. [Longest Flight Route](https://cses.fi/problemset/task/1680/) [ [Code](https://github.com/shucshin/CSES/blob/main/LongestFlightRoute.cpp) ]
+1. [Game Routes](https://cses.fi/problemset/task/1681/) [ [Code](https://github.com/shucshin/CSES/blob/main/GameRoutes.cpp) ]
 1. [Road Construction](https://cses.fi/problemset/task/1676/) [ [Code](https://github.com/shucshin/CSES/blob/main/RoadConstruction.cpp) ]
 1. [Flight Routes Check](https://cses.fi/problemset/task/1682/) [ [Code](https://github.com/shucshin/CSES/blob/main/FlightRoutesCheck.cpp) ]
 1. [Hamiltonian Flights](https://cses.fi/problemset/task/1690/) [ [Code](https://github.com/shucshin/CSES/blob/main/HamiltonianFlights.cpp) ]
@@ -102,3 +104,6 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Line Segment Intersection](https://cses.fi/problemset/task/2190/) [ [Code](https://github.com/shucshin/CSES/blob/main/LineSegmentIntersection.cpp) ]
 1. [Polygon Area](https://cses.fi/problemset/task/2191/) [ [Code](https://github.com/shucshin/CSES/blob/main/PolygonArea.cpp) ]
 1. [Convex Hull](https://cses.fi/problemset/task/2195/) [ [Code](https://github.com/shucshin/CSES/blob/main/ConvexHull.cpp) ]
+
+### Additional Problems
+1. [Empty String](https://cses.fi/problemset/task/1080/) [ [Code](https://github.com/shucshin/CSES/blob/main/EmptyString.cpp) ]
