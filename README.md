@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 83
+## Problems Solved :: 89
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/WeirdAlgorithm.cpp) ]
@@ -32,6 +32,12 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) [ [Code](https://github.com/shucshin/CSES/blob/main/MaximumSubarraySum.cpp) ]
 1. [Stick Lengths](https://cses.fi/problemset/task/1074/) [ [Code](https://github.com/shucshin/CSES/blob/main/StickLengths.cpp) ]
 1. [Missing Coin Sum](https://cses.fi/problemset/task/2183/) [ [Code](https://github.com/shucshin/CSES/blob/main/MissingCoinSum.cpp) ]
+1. [Collecting Numbers](https://cses.fi/problemset/task/2216/) [ [Code](https://github.com/shucshin/CSES/blob/main/CollectingNumbers.cpp) ]
+1. [Collecting Numbers II](https://cses.fi/problemset/task/2217/) [ [Code](https://github.com/shucshin/CSES/blob/main/CollectingNumbersII.cpp) ]
+1. [Playlist](https://cses.fi/problemset/task/1141/) [ [Code](https://github.com/shucshin/CSES/blob/main/Playlist.cpp) ]
+1. [Towers](https://cses.fi/problemset/task/1073/) [ [Code](https://github.com/shucshin/CSES/blob/main/Towers.cpp) ]
+1. [Traffic Lights](https://cses.fi/problemset/task/1163/) [ [Code](https://github.com/shucshin/CSES/blob/main/TrafficLights.cpp) ]
+1. [Josephus Problem I](https://cses.fi/problemset/task/2162/) [ [Code](https://github.com/shucshin/CSES/blob/main/JosephusProblemI.cpp) ]
 1. [Sum of Three Values](https://cses.fi/problemset/task/1641/) [ [Code](https://github.com/shucshin/CSES/blob/main/SumOfThreeValues.cpp) ]
 1. [Subarray Sums I](https://cses.fi/problemset/task/1660/) [ [Code](https://github.com/shucshin/CSES/blob/main/SubarraySumsI.cpp) ]
 
