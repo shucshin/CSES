@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 89
+## Problems Solved :: 97
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -20,6 +20,14 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Tower of Hanoi](https://cses.fi/problemset/task/2165/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/TowerOfHanoi.cpp) ]
 1. [Creating Strings](https://cses.fi/problemset/task/1622/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/CreatingStrings.cpp) ]
 1. [Apple Division](https://cses.fi/problemset/task/1623/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/AppleDivision.cpp) ]
+1. [Chessboard and Queens](https://cses.fi/problemset/task/1624/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/ChessboardQueens.cpp) ]
+1. [Raab Game I](https://cses.fi/problemset/task/3399/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/RaabGameI.cpp) ]
+1. [Mex Grid Construction](https://cses.fi/problemset/task/3419/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/MexGridConstruction.cpp) ]
+1. [Knight Moves Grid](https://cses.fi/problemset/task/3217/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/KnightMovesGrid.cpp) ]
+1. [Grid Coloring I](https://cses.fi/problemset/task/3311/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/GridColoringI.cpp) ]
+1. [Digit Queries](https://cses.fi/problemset/task/2431) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/DigitQueries.cpp) ]
+1. [String Reorder](https://cses.fi/problemset/task/1743) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/StringReorder.cpp) ]
+1. [Grid Path Description](https://cses.fi/problemset/task/1625) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/GridPathDescription.cpp) ]
 
 ### Sorting and Searching
 1. [Distinct Numbers](https://cses.fi/problemset/task/1621/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/DistinctNumbers.cpp) ]
