@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 97
+## Problems Solved :: 114
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -45,10 +45,26 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Playlist](https://cses.fi/problemset/task/1141/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/Playlist.cpp) ]
 1. [Towers](https://cses.fi/problemset/task/1073/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/Towers.cpp) ]
 1. [Traffic Lights](https://cses.fi/problemset/task/1163/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/TrafficLights.cpp) ]
+1. [Distinct Values Subarrays](https://cses.fi/problemset/task/3420) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/DistinctValuesSubarrays.cpp) ]
+1. [Distinct Values Subsequences](https://cses.fi/problemset/task/3421) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/DistinctValuesSubsequences.cpp) ]
 1. [Josephus Problem I](https://cses.fi/problemset/task/2162/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/JosephusProblemI.cpp) ]
+1. [Josephus Problem II](https://cses.fi/problemset/task/2163/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/JosephusProblemII.cpp) ]
+1. [Nested Ranges Check](https://cses.fi/problemset/task/2168/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/NestedRangesCheck.cpp) ]
+1. [Nested Ranges Count](https://cses.fi/problemset/task/2169/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/NestedRangesCount.cpp) ]
+1. [Room Allocation](https://cses.fi/problemset/task/1164/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/RoomAllocation.cpp) ]
+1. [Factory Machines](https://cses.fi/problemset/task/1620/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/FactoryMachines.cpp) ]
+1. [Tasks and Deadlines](https://cses.fi/problemset/task/1630/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/TasksDeadlines.cpp) ]
+1. [Reading Books](https://cses.fi/problemset/task/1631/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/ReadingBooks.cpp) ]
 1. [Sum of Three Values](https://cses.fi/problemset/task/1641/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/SumOfThreeValues.cpp) ]
+1. [Sum of Four Values](https://cses.fi/problemset/task/1642/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/SumOfFourValues.cpp) ]
+1. [Nearest Smaller Values](https://cses.fi/problemset/task/1645/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/NearestSmallerValues.cpp) ]
 1. [Subarray Sums I](https://cses.fi/problemset/task/1660/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/SubarraySumsI.cpp) ]
-
+1. [Subarray Sums II](https://cses.fi/problemset/task/1661/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/SubarraySumsII.cpp) ]
+1. [Subarray Divisibility](https://cses.fi/problemset/task/1662/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/SubarrayDivisibility.cpp) ]
+1. [Distinct Values Subarrays II](https://cses.fi/problemset/task/2428) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/DistinctValuesSubarraysII.cpp) ]
+1. [Array Division](https://cses.fi/problemset/task/1085) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/ArrayDivision.cpp) ]
+1. [Movie Festival II](https://cses.fi/problemset/task/1632) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/MovieFestivalII.cpp) ]
+1. [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644/) [ [Code](https://github.com/shucshin/CSES/blob/main/SortingSearching/MaximumSubarraySumII.cpp) ]
 
 ### Dynamic Programming
 1. [Dice Combinations](https://cses.fi/problemset/task/1633/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/DiceCombinations.cpp) ]
