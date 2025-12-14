@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 124
+## Problems Solved :: 138
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -93,18 +93,32 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/CountingRooms.cpp) ]
+1. [Labyrinth](https://cses.fi/problemset/task/1193/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/Labyrinth.cpp) ]
 1. [Building Roads](https://cses.fi/problemset/task/1666/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/BuildingRoads.cpp) ]
 1. [Message Route](https://cses.fi/problemset/task/1667) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/MessageRoute.cpp) ]
 1. [Building Teams](https://cses.fi/problemset/task/1668/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/BuildingTeams.cpp) ]
 1. [Round Trip](https://cses.fi/problemset/task/1669) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/RoundTrip.cpp) ]
+1. [Monsters](https://cses.fi/problemset/task/1194) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/Monsters.cpp) ]
 1. [Shortest Routes I](https://cses.fi/problemset/task/1671) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/ShortestRoutesI.cpp) ]
 1. [Shortest Routes II](https://cses.fi/problemset/task/1672/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/ShortestRoutesII.cpp) ]
+1. [High Score](https://cses.fi/problemset/task/1673/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/HighScore.cpp) ]
+1. [Flight Discount](https://cses.fi/problemset/task/1195/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/FlightDiscount.cpp) ]
 1. [Cycle Finding](https://cses.fi/problemset/task/1197/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/CycleFinding.cpp) ]
+1. [Flight Routes](https://cses.fi/problemset/task/1196/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/FlightRoutes.cpp) ]
 1. [Round Trip II](https://cses.fi/problemset/task/1678/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/RoundTripII.cpp) ]
+1. [Course Schedule](https://cses.fi/problemset/task/1679/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/CourseSchedule.cpp) ]
 1. [Longest Flight Route](https://cses.fi/problemset/task/1680/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/LongestFlightRoute.cpp) ]
 1. [Game Routes](https://cses.fi/problemset/task/1681/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/GameRoutes.cpp) ]
+1. [Investigation](https://cses.fi/problemset/task/1202/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/Investigation.cpp) ]
+1. [Planets Queries I](https://cses.fi/problemset/task/1750/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/PlanetsQueriesI.cpp) ]
+1. [Planets Queries II](https://cses.fi/problemset/task/1160/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/PlanetsQueriesII.cpp) ]
+1. [Planets Cycles](https://cses.fi/problemset/task/1751/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/PlanetsCycles.cpp) ]
+1. [Road Reparation](https://cses.fi/problemset/task/1675/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/RoadReparation.cpp) ]
 1. [Road Construction](https://cses.fi/problemset/task/1676/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/RoadConstruction.cpp) ]
 1. [Flight Routes Check](https://cses.fi/problemset/task/1682/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/FlightRoutesCheck.cpp) ]
+1. [Planets and Kingdoms](https://cses.fi/problemset/task/1683/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/PlanetsKingdoms.cpp) ]
+1. [Coin Collector](https://cses.fi/problemset/task/1686/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/CoinCollector.cpp) ]
+1. [Mail Delivery](https://cses.fi/problemset/task/1691/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/MailDelivery.cpp) ]
 1. [Hamiltonian Flights](https://cses.fi/problemset/task/1690/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/HamiltonianFlights.cpp) ]
 
 
