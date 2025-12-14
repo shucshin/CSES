@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 138
+## Problems Solved :: 148
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -132,10 +132,20 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Forest Queries](https://cses.fi/problemset/task/1652/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/ForestQueries.cpp) ]
 1. [Hotel Queries](https://cses.fi/problemset/task/1143/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/HotelQueries.cpp) ]
 1. [List Removals](https://cses.fi/problemset/task/1749) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/ListRemovals.cpp) ]
+1. [Salary Queries](https://cses.fi/problemset/task/1144) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/SalaryQueries.cpp) ]
 1. [Prefix Sum Queries](https://cses.fi/problemset/task/2166) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/PrefixSumQueries.cpp) ]
+1. [Pizzeria Queries](https://cses.fi/problemset/task/2206) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/PizzeriaQueries.cpp) ]
+1. [Visible Buildings Queries](https://cses.fi/problemset/task/3304) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/VisibleBuildingsQueries.cpp) ]
+1. [Range Interval Queries](https://cses.fi/problemset/task/3163) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/RangeIntervalQueries.cpp) ]
 1. [Subarray Sum Queries](https://cses.fi/problemset/task/1190) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/SubarraySumQueries.cpp) ]
+1. [Subarray Sum Queries II](https://cses.fi/problemset/task/3226) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/SubarraySumQueriesII.cpp) ]
+1. [Distinct Values Queries](https://cses.fi/problemset/task/1734) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/DistinctValuesQueries.cpp) ]
+1. [Increasing Array Queries](https://cses.fi/problemset/task/2416) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/IncreasingArrayQueries.cpp) ]
+1. [Movie Festival Queries](https://cses.fi/problemset/task/1664) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/MovieFestivalQueries.cpp) ]
 1. [Forest Queries II](https://cses.fi/problemset/task/1739) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/ForestQueriesII.cpp) ]
 1. [Range Updates and Sums](https://cses.fi/problemset/task/1735/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/RangeUpdatesSums.cpp) ]
+1. [Polynomial Queries](https://cses.fi/problemset/task/1736/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/PolynomialQueries.cpp) ]
+1. [Range Queries and Copies](https://cses.fi/problemset/task/1737/) [ [Code](https://github.com/shucshin/CSES/blob/main/RangeQueries/RangeQueriesCopies.cpp) ]
 
 ### Tree Algorithms
 1. [Subordinates](https://cses.fi/problemset/task/1674/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/Subordinates.cpp) ]
