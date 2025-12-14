@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 148
+## Problems Solved :: 160
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -149,9 +149,21 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 
 ### Tree Algorithms
 1. [Subordinates](https://cses.fi/problemset/task/1674/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/Subordinates.cpp) ]
+1. [Tree Matching](https://cses.fi/problemset/task/1130/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/TreeMatching.cpp) ]
+1. [Tree Diameter](https://cses.fi/problemset/task/1131/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/TreeDiameter.cpp) ]
+1. [Tree Distances I](https://cses.fi/problemset/task/1132/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/TreeDistancesI.cpp) ]
+1. [Tree Distances II](https://cses.fi/problemset/task/1133/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/TreeDistancesII.cpp) ]
 1. [Company Queries I](https://cses.fi/problemset/task/1687/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/CompanyQueriesI.cpp) ]
 1. [Company Queries II](https://cses.fi/problemset/task/1688/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/CompanyQueriesII.cpp) ]
 1. [Distance Queries](https://cses.fi/problemset/task/1135/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/DistanceQueries.cpp) ]
+1. [Counting Paths](https://cses.fi/problemset/task/1136/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/CountingPaths.cpp) ]
+1. [Subtree Queries](https://cses.fi/problemset/task/1137/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/SubtreeQueries.cpp) ]
+1. [Path Queries](https://cses.fi/problemset/task/1138/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/PathQueries.cpp) ]
+1. [Path Queries II](https://cses.fi/problemset/task/2134/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/PathQueriesII.cpp) ]
+1. [Distinct Colors](https://cses.fi/problemset/task/1139/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/DistinctColors.cpp) ]
+1. [Finding a Centroid](https://cses.fi/problemset/task/2079/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/FindingCentroid.cpp) ]
+1. [FixedLengthPathsI](https://cses.fi/problemset/task/2080/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/FixedLengthPathsI.cpp) ]
+1. [FixedLengthPathsII](https://cses.fi/problemset/task/2081/) [ [Code](https://github.com/shucshin/CSES/blob/main/Tree/FixedLengthPathsII.cpp) ]
 
 ### Mathematics
 1. [Exponentiation](https://cses.fi/problemset/task/1095/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/Exponentiation.cpp) ]
