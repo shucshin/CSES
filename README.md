@@ -169,6 +169,9 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Exponentiation](https://cses.fi/problemset/task/1095/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/Exponentiation.cpp) ]
 1. [Exponentiation II](https://cses.fi/problemset/task/1712/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/ExponentiationII.cpp) ]
 1. [Counting Divisors](https://cses.fi/problemset/task/1713/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/CountingDivisors.cpp) ]
+1. [Common Divisors](https://cses.fi/problemset/task/1081/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/CommonDivisors.cpp) ]
+1. [Sum of Divisors](https://cses.fi/problemset/task/1082/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/SumDivisors.cpp) ]
+1. [Next Prime](https://cses.fi/problemset/task/3396/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/NextPrime.cpp) ]
 1. [Binomial Coefficients](https://cses.fi/problemset/task/1079/) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/BinomialCoefficients.cpp) ]
 1. [Fibonacci Numbers](https://cses.fi/problemset/task/1722) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/FibonacciNumbers.cpp) ]
 
