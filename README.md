@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 114
+## Problems Solved :: 124
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -74,12 +74,22 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Removing Digits](https://cses.fi/problemset/task/1637/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/RemovingDigits.cpp) ]
 1. [Grid Paths](https://cses.fi/problemset/task/1638/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/GridPaths.cpp) ]
 1. [Book Shop](https://cses.fi/problemset/task/1158/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/BookShop.cpp) ]
+1. [Array Description](https://cses.fi/problemset/task/1746/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/ArrayDescription.cpp) ]
 1. [Counting Towers](https://cses.fi/problemset/task/2413/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/CountingTowers.cpp) ]
 1. [Edit Distance](https://cses.fi/problemset/task/1639/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/EditDistance.cpp) ]
+1. [Longest Common Subsequence](https://cses.fi/problemset/task/3403/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/LongestCommonSubsequence.cpp) ]
+1. [Rectangle Cutting](https://cses.fi/problemset/task/1744/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/RectangleCutting.cpp) ]
+1. [Minimal Grid Path](https://cses.fi/problemset/task/3359/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/MinimalGridPath.cpp) ]
+1. [Money Sums](https://cses.fi/problemset/task/1745/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/MoneySums.cpp) ]
+1. [Removal Game](https://cses.fi/problemset/task/1097/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/RemovalGame.cpp) ]
 1. [Two Sets II](https://cses.fi/problemset/task/1093/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/TwoSetsII.cpp) ]
+1. [Mountain Range](https://cses.fi/problemset/task/3314/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/MountainRange.cpp) ]
 1. [Increasing Subsequence](https://cses.fi/problemset/task/1145/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/IncreasingSubsequence.cpp) ]
+1. [Projects](https://cses.fi/problemset/task/1140/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/Projects.cpp) ]
 1. [Elevator Rides](https://cses.fi/problemset/task/1653/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/ElevatorRides.cpp) ]
+1. [Counting Tilings](https://cses.fi/problemset/task/2181/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/CountingTilings.cpp) ]
 1. [Counting Numbers](https://cses.fi/problemset/task/2220/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/CountingNumbers.cpp) ]
+1. [Increasing Subsequence II](https://cses.fi/problemset/task/1748/) [ [Code](https://github.com/shucshin/CSES/blob/main/DynamicProgramming/IncreasingSubsequenceII.cpp) ]
 
 ### Graph Algorithms
 1. [Counting Rooms](https://cses.fi/problemset/task/1192/) [ [Code](https://github.com/shucshin/CSES/blob/main/Graph/CountingRooms.cpp) ]
