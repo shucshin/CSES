@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 191
+## Problems Solved :: 200
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -215,5 +215,19 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Lines and Queries II](https://cses.fi/problemset/task/3430/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LinesQueriesII.cpp) ]
 1. [Area of Rectangles](https://cses.fi/problemset/task/1741/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/AreaRectangles.cpp) ]
 
+### Sliding Window Problems
+1. [Sliding Window Median](https://cses.fi/problemset/task/1076/) [ [Code](https://github.com/shucshin/CSES/blob/main/SlidingWindow/SlidingWindowMedian.cpp) ]
+1. [Sliding Window Cost](https://cses.fi/problemset/task/1077/) [ [Code](https://github.com/shucshin/CSES/blob/main/SlidingWindow/SlidingWindowCost.cpp) ]
+
+### Interactive Problems
+1. [Hidden Integer](https://cses.fi/problemset/task/3112/) [ [Code](https://github.com/shucshin/CSES/blob/main/Interactive/HiddenInteger.cpp) ]
+
+### Bitwise Operations
+1. [Counting Bits](https://cses.fi/problemset/task/1146/) [ [Code](https://github.com/shucshin/CSES/blob/main/Bitwise/CountingBits.cpp) ]
+
 ### Counting Problems
 1. [Empty String](https://cses.fi/problemset/task/1080/) [ [Code](https://github.com/shucshin/CSES/blob/main/Counting/EmptyString.cpp) ]
+
+### Additional Problems
+1. [Multiplication Table](https://cses.fi/problemset/task/2422/) [ [Code](https://github.com/shucshin/CSES/blob/main/Additional/MultiplicationTable.cpp) ]
+1. [Advertisement](https://cses.fi/problemset/task/1142/) [ [Code](https://github.com/shucshin/CSES/blob/main/Additional/Advertisement.cpp) ]
