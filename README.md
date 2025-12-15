@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 180
+## Problems Solved :: 191
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -202,7 +202,18 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Point Location Test](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/PointLocationTest.cpp) ]
 1. [Line Segment Intersection](https://cses.fi/problemset/task/2190/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LineSegmentIntersection.cpp) ]
 1. [Polygon Area](https://cses.fi/problemset/task/2191/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/PolygonArea.cpp) ]
+1. [Point in Polygon](https://cses.fi/problemset/task/2192/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/PointPolygon.cpp) ]
+1. [Polygon Lattice Points](https://cses.fi/problemset/task/2193/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/PolygonLatticePoints.cpp) ]
+1. [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/MinimumEuclideanDistance.cpp) ]
 1. [Convex Hull](https://cses.fi/problemset/task/2195/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/ConvexHull.cpp) ]
+1. [Maximum Manhattan Distances](https://cses.fi/problemset/task/3410/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/MaximumManhattanDistances.cpp) ]
+1. [All Manhattan Distances](https://cses.fi/problemset/task/3411/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/AllManhattanDistances.cpp) ]
+1. [Intersection Points](https://cses.fi/problemset/task/1740/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/IntersectionPoints.cpp) ]
+1. [Line Segments Trace I](https://cses.fi/problemset/task/3427/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LineSegmentsTraceI.cpp) ]
+1. [Line Segments Trace II](https://cses.fi/problemset/task/3428/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LineSegmentsTraceII.cpp) ]
+1. [Lines and Queries I](https://cses.fi/problemset/task/3429/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LinesQueriesI.cpp) ]
+1. [Lines and Queries II](https://cses.fi/problemset/task/3430/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/LinesQueriesII.cpp) ]
+1. [Area of Rectangles](https://cses.fi/problemset/task/1741/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/AreaRectangles.cpp) ]
 
 ### Counting Problems
 1. [Empty String](https://cses.fi/problemset/task/1080/) [ [Code](https://github.com/shucshin/CSES/blob/main/Counting/EmptyString.cpp) ]
