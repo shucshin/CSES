@@ -1,7 +1,7 @@
 # CSES Problem Set
 Repository to update my progress in the [CSES Problem Set](https://cses.fi/problemset/) for Competitive Programming
 
-## Problems Solved :: 160
+## Problems Solved :: 180
 
 ### Introductory Problems
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068/) [ [Code](https://github.com/shucshin/CSES/blob/main/Introductory/WeirdAlgorithm.cpp) ]
@@ -176,7 +176,27 @@ Repository to update my progress in the [CSES Problem Set](https://cses.fi/probl
 1. [Fibonacci Numbers](https://cses.fi/problemset/task/1722) [ [Code](https://github.com/shucshin/CSES/blob/main/Mathematics/FibonacciNumbers.cpp) ]
 
 ### String Algorithms
+1. [Word Combinations](https://cses.fi/problemset/task/1731/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/WordCombinations.cpp) ]
 1. [String Matching](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/StringMatching.cpp) ]
+1. [Finding Borders](https://cses.fi/problemset/task/1732/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/FindingBorders.cpp) ]
+1. [Finding Periods](https://cses.fi/problemset/task/1733/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/FindingPeriods.cpp) ]
+1. [Minimal Rotation](https://cses.fi/problemset/task/1110/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/MinimalRotation.cpp) ]
+1. [Longest Palindrome](https://cses.fi/problemset/task/1111/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/LongestPalindrome.cpp) ]
+1. [All Palindromes](https://cses.fi/problemset/task/3138/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/AllPalindromes.cpp) ]
+1. [Required Substring](https://cses.fi/problemset/task/1112/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/RequiredSubstring.cpp) ]
+1. [Palindrome Queries](https://cses.fi/problemset/task/2420/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/PalindromeQueries.cpp) ]
+1. [Finding Patterns](https://cses.fi/problemset/task/2102/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/FindingPatterns.cpp) ]
+1. [Counting Patterns](https://cses.fi/problemset/task/2103/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/CountingPatterns.cpp) ]
+1. [Pattern Positions](https://cses.fi/problemset/task/2104/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/PatternPositions.cpp) ]
+1. [Distinct Substrings](https://cses.fi/problemset/task/2105/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/DistinctSubstrings.cpp) ]
+1. [Distinct Subsequences](https://cses.fi/problemset/task/1149/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/DistinctSubsequences.cpp) ]
+1. [Repeating Substring](https://cses.fi/problemset/task/2106/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/RepeatingSubstring.cpp) ]
+1. [String Functions](https://cses.fi/problemset/task/2107/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/StringFunctions.cpp) ]
+1. [Inverse Suffix Array](https://cses.fi/problemset/task/3225/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/InverseSuffixArray.cpp) ]
+1. [String Transform](https://cses.fi/problemset/task/1113/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/StringTransform.cpp) ]
+1. [Substring Order I](https://cses.fi/problemset/task/2108/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/SubstringOrderI.cpp) ]
+1. [Substring Order II](https://cses.fi/problemset/task/2109/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/SubstringOrderII.cpp) ]
+1. [Substring Distribution](https://cses.fi/problemset/task/2110/) [ [Code](https://github.com/shucshin/CSES/blob/main/String/SubstringDistribution.cpp) ]
 
 ### Geometry
 1. [Point Location Test](https://cses.fi/problemset/task/2189/) [ [Code](https://github.com/shucshin/CSES/blob/main/Geometry/PointLocationTest.cpp) ]
